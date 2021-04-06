@@ -17,7 +17,7 @@
 - **Тестовый сценарий**
 
 1. Создать новый проект в среде разработки IntelligIDEA (класс Main)
-2. Написать код для сложения двух переменных по [примеру из лекции] (https://netology.ru/profile/program/javaqa-18/lessons/71023/lesson_items/340639)
+2. Написать код для сложения двух переменных по [примеру из лекции](https://netology.ru/profile/program/javaqa-18/lessons/71023/lesson_items/340639)
 3. Запустить приложение ctrl+shift+f10
 4. Зафиксировать результат в отчёте
 
